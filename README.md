@@ -13,6 +13,9 @@ This project, completed as part of the "CSY Network Structures and Cloud Computi
 
 ## Architecture Design 🏗️
 
+
+![CloudBuild Pipeline](https://github.com/CSYE-6225-2024-Cloud-Computing/Project-CloudBuild-Scalable-Infrastructure-on-GCP/blob/main/images/cloudbuild-pipeline.svg)
+
 ### 1. Infrastructure Automation with Terraform 🔧
 - **Terraform** was used to define and manage the cloud infrastructure, allowing us to treat infrastructure as code. This made it easy to replicate environments, manage changes, and ensure consistency.
 
